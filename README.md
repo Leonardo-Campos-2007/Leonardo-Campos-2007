@@ -15,7 +15,8 @@
 
 
 
-![snake gif](https://github.com/Leonardo-Campos-2007/Leonardo-Campos-2007/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Leonardo-Campos-2007/Leonardo-Campos-2007/blob/output/github-contribution-grid-snake-dark.svg)
+
 
 
 
