@@ -1,7 +1,5 @@
 ## 🚀 Tecnologias
 
-## 🚀 Tecnologias
-
 <div style="display: flex; justify-content: center; align-items: center; gap: 40px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
        alt="Java"
@@ -13,6 +11,7 @@
        width="120"
        height="120" />
 </div>
+
 
 
 
