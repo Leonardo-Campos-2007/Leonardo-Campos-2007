@@ -21,12 +21,23 @@
 ---
 
 ## 📊 Estatísticas do GitHub
-![Leonardo GitHub Stats](https://github-readme-stats.vercel.app/api?username=Leonardo-Campos-2007&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Leonardo-Campos-2007&show_icons=true&theme=dark&include_all_commits=true&count_private=true"
+       alt="Leonardo GitHub Stats"
+       height="180"/>
+</p>
 
 ---
 
 ## 💻 Linguagens mais usadas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo-Campos-2007&layout=compact&theme=dark)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo-Campos-2007&layout=compact&theme=dark"
+       alt="Top Langs"
+       height="180"/>
+</p>
+
 
 ---
 
