@@ -1,18 +1,19 @@
 ## 🚀 Tecnologias
 
-<div align="center">
+## 🚀 Tecnologias
+
+<div style="display: flex; justify-content: center; align-items: center; gap: 40px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
        alt="Java"
-       width="110"
-       height="110"
-       style="margin: 15px;" />
+       width="120"
+       height="120" />
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"
        alt="Spring Boot"
-       width="110"
-       height="110"
-       style="margin: 15px;" />
+       width="120"
+       height="120" />
 </div>
+
 
 
 
