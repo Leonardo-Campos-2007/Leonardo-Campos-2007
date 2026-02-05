@@ -1,10 +1,4 @@
-<div align="center">
-  <a href="https://github.com/Leonardo-Campos-2007">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leonardo-Campos-2007&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo-Campos-2007&layout=compact&langs_count=7&theme=tokyonight"/>
-  </a>
-</div>
-<div align="center">
+
 
   <!-- Logos das linguagens -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="60" height="60"/>
