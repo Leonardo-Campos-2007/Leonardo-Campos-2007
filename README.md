@@ -18,28 +18,27 @@
 </table>
 
 
----
-
 ## 📊 Estatísticas do GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Leonardo-Campos-2007&show_icons=true&theme=dark&include_all_commits=true&count_private=true"
-       alt="Leonardo GitHub Stats"
-       height="180"/>
-</p>
+<div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Leonardo-Campos-2007&show_icons=true&theme=dark&include_all_commits=true&count_private=true&cache_seconds=1800"
+    height="180"
+    alt="Leonardo GitHub Stats"
+  />
+</div>
 
----
+<br/>
 
 ## 💻 Linguagens mais usadas
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo-Campos-2007&layout=compact&theme=dark"
-       alt="Top Langs"
-       height="180"/>
-</p>
-
-
----
+<div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo-Campos-2007&layout=compact&theme=dark&cache_seconds=1800"
+    height="180"
+    alt="Top Langs"
+  />
+</div>
 
 ## 🐍 Minhas contribuições
 ![Snake animation](https://github.com/Leonardo-Campos-2007/Leonardo-Campos-2007/blob/output/github-contribution-grid-snake-dark.svg)
