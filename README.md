@@ -1,11 +1,19 @@
 ## 🚀 Tecnologias
-<div style="display: flex; gap: 10px;">
+
+<div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
-       alt="Java" width="60" height="60"/>
+       alt="Java"
+       width="110"
+       height="110"
+       style="margin: 15px;" />
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"
-       alt="Spring Boot" width="60" height="60"/>
+       alt="Spring Boot"
+       width="110"
+       height="110"
+       style="margin: 15px;" />
 </div>
+
 
 
 ---
