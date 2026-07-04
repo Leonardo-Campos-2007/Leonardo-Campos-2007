@@ -18,6 +18,11 @@
            alt="Spring Boot"
            width="120"
            height="120" />
+            <td align="center">
+      <img src="./assets/duke.svg" 
+           alt="Duke"
+           width="120"
+           height="120" />
   </tr>
 </table>
 
