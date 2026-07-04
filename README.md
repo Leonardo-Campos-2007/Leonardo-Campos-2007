@@ -13,6 +13,11 @@
            width="120"
            height="120" />
     </td>
+     <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
+           alt="Spring Boot"
+           width="120"
+           height="120" />
   </tr>
 </table>
 
